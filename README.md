@@ -21,13 +21,9 @@ A command-line todo list application built with Python.
 
 ### Week 2
 
-_Coming soon_
+Built a command-line tool to get the weight, height, or type of a Pokémon. It also includes the ability to compare two Pokémon's weights, along with two flags --raw and --word, which control how it displays the information. 
 
-<!-- **Project:**  -->
-<!-- **What I learned:**  -->
-<!-- **Code:** [`week2/`](week2/) -->
-
----
+Learned how to add arguments in subcommands and add a mutually exclusive group.
 
 ### Week 3
 
