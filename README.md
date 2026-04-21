@@ -27,11 +27,7 @@ Learned how to add arguments in subcommands and add a mutually exclusive group.
 
 ### Week 3
 
-_Coming soon_
-
-<!-- **Project:**  -->
-<!-- **What I learned:**  -->
-<!-- **Code:** [`week3/`](week3/) -->
+Learned how to make a simple API using FastAPI in Python. Learned Get, Post, Delete, and Patch. Used async functions and classes. Made a simple To-do list app, with the ability to search using a keyword.
 
 ---
 
