@@ -8,6 +8,8 @@ My weekly projects from the [Hack Club Resolution](https://resolution.hackclub.c
 
 ## Weekly Projects
 
+---
+
 ### Week 1 — Todo CLI
 
 A command-line todo list application built with Python.
@@ -24,6 +26,8 @@ A command-line todo list application built with Python.
 Built a command-line tool to get the weight, height, or type of a Pokémon. It also includes the ability to compare two Pokémon's weights, along with two flags --raw and --word, which control how it displays the information. 
 
 Learned how to add arguments in subcommands and add a mutually exclusive group.
+
+---
 
 ### Week 3
 
