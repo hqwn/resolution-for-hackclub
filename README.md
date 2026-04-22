@@ -37,11 +37,7 @@ Learned how to make a simple API using FastAPI in Python. Learned Get, Post, Del
 
 ### Week 4
 
-_Coming soon_
-
-<!-- **Project:**  -->
-<!-- **What I learned:**  -->
-<!-- **Code:** [`week4/`](week4/) -->
+Learned how to use SlowAPI to implement rate limits, background tasks, authentication with an API key, and how to use the sqlite3 database from Python's built-in library. Using this new knowledge, I built a quotes api, where you can add quotes, make yourself private, get a single quote, and get multiple quotes.
 
 ---
 
