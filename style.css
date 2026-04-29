@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+h1, h3{
+    color: white;
+}
+input{
+    padding: 15px;
+    color: green;
+    border-radius: 5px;
+}
+#login, #submit{
+    background-color: rgb(243, 255, 82);
+    padding: 10px;
+
+}
+#get_quote{
+    background-color: rgb(149, 244, 212);
+    padding: 12px;
+    width: 300px;
+    border-radius: 20px;
+}
+#add_quote{
+    border-radius: 10px;
+    padding: 14px;
+    background-color: rgb(100, 188, 254);
+}
+#delete{
+    background-color: rgb(253, 103, 93);
+    padding: 12px;
+    width: 300px;
+    border-radius: 20px;
+}
