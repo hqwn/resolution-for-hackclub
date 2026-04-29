@@ -43,11 +43,7 @@ Learned how to use SlowAPI to implement rate limits, background tasks, authentic
 
 ### Week 5
 
-_Coming soon_
-
-<!-- **Project:**  -->
-<!-- **What I learned:**  -->
-<!-- **Code:** [`week5/`](week5/) -->
+I learned how to make a frontend using HTML, CSS, and Python instead of JavaScript, made possible by using Brython. I also learned how to use local storage so my website can persist memory across refreshes.
 
 ---
 
