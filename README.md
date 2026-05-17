@@ -49,13 +49,7 @@ I learned how to make a frontend using HTML, CSS, and Python instead of JavaScri
 
 ### Week 6
 
-_Coming soon_
-
-<!-- **Project:**  -->
-<!-- **What I learned:**  -->
-<!-- **Code:** [`week6/`](week6/) -->
-
----
+I made a To-Do list app using tkinter in Python. Obviously, I learned tkinter, but more than that, I figured out through this project to read documentation carefully, because I spent like 45 minutes publishing to TestPyPi only for it not to work. Then, finally, I found out I hadn't added something from the Instructions. Anyways, my To-Do app has persistent memory; you can delete, add, and add a task through the GUI. Tasks that are completed have a light green background, and tasks that are not completed have a red background.
 
 ### Week 7
 
