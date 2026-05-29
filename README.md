@@ -53,13 +53,7 @@ I made a To-Do list app using tkinter in Python. Obviously, I learned tkinter, b
 
 ### Week 7
 
-_Coming soon_
-
-<!-- **Project:**  -->
-<!-- **What I learned:**  -->
-<!-- **Code:** [`week7/`](week7/) -->
-
----
+I learned how to make a cool GUI using Qt (through PySide6). I made a basic journal GUI, where you pick the date/time and write the journal, then you can make a new journal with the new info, or add it to an existing journal. I really liked this project and thought it was really cool!
 
 ### Week 8
 
