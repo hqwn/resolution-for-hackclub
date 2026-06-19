@@ -1,0 +1,5 @@
+.venv
+.env
+.slack/
+*.db
+tasks.json

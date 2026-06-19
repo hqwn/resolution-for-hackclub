@@ -57,26 +57,19 @@ I learned how to make a cool GUI using Qt (through PySide6). I made a basic jour
 
 ### Week 8
 
-_Coming soon_
+Made a SLACK BOT! This has been on my todo list for a long time, and I finally made it! I looped back to the first week and made a task bot in slack, It greets new users, use:
+
+- /make-task [ task description ] to make a task
+- /delete-task [ task id ] to delete a task
+- /all-tasks to see all of the tasks
+
+Overall I really liked this program, and making 8 different project! I learned and made a lot of new stuff and I am proud of myself for doing so.
 
 <!-- **Project:**  -->
 <!-- **What I learned:**  -->
 <!-- **Code:** [`week8/`](week8/) -->
 
 ---
-
-## Getting Started
-
-Each week's project lives in its own folder. To run any project:
-
-```bash
-# Clone the repo
-git clone https://github.com/hqwn/resolution-for-hackclub.git
-cd resolution-for-hackclub
-
-# Navigate to a week's folder and run it
-cd week1
-python main.py
 ```
 
 ## License
